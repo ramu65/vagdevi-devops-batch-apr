@@ -2,6 +2,9 @@ How to create AWS account ???
 
 email address , mobile number , Debit card ( master / visa )
 
+
+google
+
 Google ===>> aws console login ==>> AWs management console ===>> sign into console ==>>> create new account ==>> email : xyz , password 1243 , conform password : 1234 ==>> Aws account name : ==>>  continue..
 
 AWS free-tier ( select ) ===>> personal ( select ) or proffesional/ business acount ===>>> address details ==> d.no , streect , pincode , state ,near landmark..
